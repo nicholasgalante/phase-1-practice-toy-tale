@@ -1,4 +1,4 @@
-body {
+fbody {
   margin: 0;
   font-family: monospace;
 }
@@ -48,6 +48,10 @@ button {
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
+}
+
+p {
+  font-size: 16px;
 }
 
 button:hover {
